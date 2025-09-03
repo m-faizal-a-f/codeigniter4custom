@@ -1,0 +1,14 @@
+{
+    "name": "m-faizal-a-f/codeigniter4custom",
+    "description": "Custom CodeIgniter4 for HMVC",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodeIgniter\\": "system/"
+        }
+    }
+}
