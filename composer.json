@@ -1,5 +1,5 @@
 {
-    "name": "codeigniter4/framework",
+    "name": "codeigniter4",
     "description": "Custom CodeIgniter4 for HMVC",
     "type": "library",
     "license": "MIT",
